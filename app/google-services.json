@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623292289927",
+    "project_id": "notescrudp1",
+    "storage_bucket": "notescrudp1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623292289927:android:18502e7dbc9c8ec582f922",
+        "android_client_info": {
+          "package_name": "com.example.crudjetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZc76y3HnzF-SsGUq7y8COtN3B0j9GtHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
